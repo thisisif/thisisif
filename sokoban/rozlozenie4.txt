@@ -1,0 +1,11 @@
+XXXXXXXXXXXXXXX
+XC   B    CXC X
+XC K       X  X
+XXX     XK X  X
+X XXBXXXX  X  X
+X    X K   X  X
+XK K X      KXX
+X  XXX  P  X  X 
+X K  BXXXX    X
+XC         C CX
+XXXXXXXXXXXXXXX
